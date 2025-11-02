@@ -1,0 +1,13 @@
+{
+    "update_files":  [
+                         {
+                             "path":  "tmp/update.zip",
+                             "url":  "https://your-update-server.example.com/updates/1.0.1/update_v1.0.1.zip",
+                             "md5":  "132cc6b5a45abc79428b6e22033ebde9",
+                             "type":  "zip"
+                         }
+                     ],
+    "force_restart":  true,
+    "description":  "Full update package v1.0.1",
+    "version":  "1.0.1"
+}
